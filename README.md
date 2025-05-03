@@ -63,3 +63,4 @@ The database contains the following 8 tables:
    ```sql
    CREATE DATABASE companyDB;
    USE companyDB;
+More Documentation: https://vanna.ai/docs/mysql-gemini-chromadb/#launch-the-user-interface   
